@@ -1,2 +1,2 @@
-# galactic-data2.github.io
+# galactic-data2
 test
